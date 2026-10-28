@@ -1,0 +1,9 @@
+These textures are from Poly Haven (https://polyhaven.com/textures).
+
+License: CC0 (Public Domain)
+https://polyhaven.com/license
+
+Each file is the 1K diffuse (color) map of the Poly Haven texture with the same name,
+for example brick_floor_04.webp is https://polyhaven.com/a/brick_floor_04.
+They were downscaled to 256x256 and converted to WebP; colors are unchanged.
+The normal, roughness and displacement maps were not included.

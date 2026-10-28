@@ -10,6 +10,7 @@ sizes work best; 256x256 is the project's standard.
 | LAB | Textures from the game LAB (https://mutantleg.itch.io/lab) | Mutantleg |
 | Horror, Floor Tiles, Rooftops, Liquids, Synthetic, Tiny Pack 1-3 | Screaming Brain Studios texture packs | Screaming Brain Studios |
 | Terrain | Stunt Rally 2.3 terrain textures, from Nobiax / yughues' "Free tiling textures" packs | Nobiax (yughues), edited by CryHam |
+| Poly Haven | Diffuse maps of Poly Haven textures (https://polyhaven.com/textures) | Poly Haven |
 
-The packs were converted to WebP (256x256 and smaller; the Terrain set was reduced from
-1024x1024). Each folder's `LICENSE.txt` is the pack's original license or readme.
+The packs were converted to WebP (256x256 and smaller; the Terrain and Poly Haven sets were
+reduced from 1024x1024). Each folder's `LICENSE.txt` is the pack's original license or readme.

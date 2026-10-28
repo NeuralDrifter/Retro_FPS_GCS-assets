@@ -5,7 +5,7 @@ Textures and 3D models for [Retro_FPS_GCS](https://github.com/NeuralDrifter/Retr
 
 | Folder | Contents |
 |---|---|
-| `textures/` | 1,077 textures (WebP, 256x256 and smaller) in pack folders, e.g. `textures/Horror/Brick/` |
+| `textures/` | 1,209 textures (WebP, 256x256 and smaller) in pack folders, e.g. `textures/Horror/Brick/` |
 | `models/` | 608 `.glb` models in category folders, e.g. `models/decorations/Dungeon/`, plus `model-sizes.json` (each model's real width and depth in meters) |
 
 The folder layout is the one Retro_FPS_GCS reads from `src/assets/`: copying `textures/` and
